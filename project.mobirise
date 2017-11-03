@@ -35,7 +35,9 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 22,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
