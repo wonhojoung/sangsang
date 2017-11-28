@@ -34,9 +34,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "원도연",
+        "meta_descr": "경력 및 포트폴리오 소개",
+        "header_custom": "<meta name=\"naver-site-verification\" content=\"2b996be4eb828c10e76a5aced9106d2eaf6f4dcc\"/>\n\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"원도연\">\n<meta property=\"og:description\" content=\"경력 및 포트폴리오 소개\">\n<meta property=\"og:image\" content=\"http://wonddo.com/assets/images/-128x128.jpg\">\n<meta property=\"og:url\" content=\"http://www.wonddo.com\">\n\n",
         "footer_custom": "",
         "html_before": ""
       },
